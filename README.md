@@ -1,1 +1,1 @@
-# The source code for the brain stroke prediction study is available upon reasonable request.
+# Note: This code is provided strictly for research and educational purposes; please do not misuse or redistribute it without proper permission.
